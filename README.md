@@ -1,13 +1,11 @@
-# Walldraw
-墙画机
+Wall painting machine
 
-拿着手机不知所措的同学，请按上面的 View code 就可以看到程序和说明书了，部分手机不能在线阅读pdf，可以下载后再看。
-下载是按绿色的 Clone or Download 按钮下载zip的打包文件。
+For students who are at a loss with a mobile phone, please click the View code above to see the program and instructions. Some mobile phones cannot read pdf online, you can download and then read it. To download, press the green Clone or Download button to download the zip package file.
 
-如果还是不会，请Google一下看看GitHub咋用，或者放弃后到 https://create.arduino.cc/editor/wjd76/f6e291a3-1061-4218-b583-fa0fd5550cfb/preview 用web版编译器编译
+If it still does not, please take a look at GitHub, or give it up and go to https://create.arduino.cc/editor/wjd76/f6e291a3-1061-4218-b583-fa0fd5550cfb/preview to compile with the web version
 
-也可以到本店的西瓜视频观看教程 https://www.ixigua.com/home/2123847662571084/
+You can also go to our store's watermelon video to watch the tutorial https://www.ixigua.com/home/2123847662571084/
 
-推荐直接使用Arduino.cc官网的web版编译器 部分内容可能翻墙后更方便，推荐一个翻墙工具， https://github.com/bannedbook/fanqiang/wiki
+It is recommended to directly use the web version of the Arduino.cc official website. Some content may be more convenient after the wall is turned over. Recommend a tool to turn the wall, https://github.com/bannedbook/fanqiang/wiki
 
-请勿使用旺旺咨询任何关于程序调试、翻墙工具使用的任何问题。我们只能保证程序可以运行，关于程序问题，请自行解决。如果没有调试运行Arduino程序的基础知识，请谨慎购买。
+Please do not use Want Want to consult any questions about program debugging and the use of over-the-wall tools. We can only guarantee that the program can run, please solve the problem by yourself. If you do not have the basic knowledge to debug and run the Arduino program, please purchase carefully.
